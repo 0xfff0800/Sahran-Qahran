@@ -28,8 +28,8 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 
 ## Getting Started
 1. ```git clone https://github.com/0xfff0800/Sahran-Qahran.git```
-2. ```cd Sahran-Qahran```
-3. ```chmod +x Sahran-Qahran ```
+2. ```cd Brute force Netflex```
+3. ```chmod +x Brute force Netflex ```
 4. ```pip install winsound  ```
 5. ```pip install proxylist  ```
 6. ```pip install mechanize  ```
