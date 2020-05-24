@@ -28,8 +28,8 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 
 ## Getting Started
 1. ```git clone https://github.com/0xfff0800/Sahran-Qahran.git```
-2. ```cd Brute force Netflex```
-3. ```chmod +x Brute force Netflex ```
+2. ```cd Sahran-Qahran-masterx```
+3. ```chmod +x Sahran-Qahran-master ```
 4. ```pip install winsound  ```
 5. ```pip install proxylist  ```
 6. ```pip install mechanize  ```
@@ -56,6 +56,6 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
  <img src="https://www.up-00.com/i/00176/4gu5yi4fwmgt.jpg" width="30%"></img>
  
  ## Download and Clone
- > Download: Click [Here](https://github.com/0xfff0800/Sahran-Qahran/archive/master.zip) (BruteSploit-master.zip)
+ > Download: Click [Here](https://github.com/0xfff0800/Sahran-Qahran/archive/master.zip) (Sahran-Qahran-master.zip)
  
  
